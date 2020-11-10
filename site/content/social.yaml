@@ -1,8 +1,8 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url:
 
 - name: twitter
-  url: https://twitter.com/username
+  url:
 
 - name: facebook
   url:
@@ -20,10 +20,10 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/emilingemarkarlsson
 
 - name: goodreads
-  url:
+  url: https://www.goodreads.com/emilingemarkarlsson
 
 - name: xing
   url:
@@ -33,4 +33,3 @@
 
 - name: medium
   url:
-

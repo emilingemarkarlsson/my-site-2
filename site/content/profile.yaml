@@ -1,13 +1,13 @@
 - profile:
-  initials: JD
-  name: John DDoe
-  email: john.doe@change.me
-  profession: Web Developer
+  initials: EK
+  name: Emil Karlsson
+  email: emilingemarkarlsson@gmail.com
+  profession: false
   image: images/profile.jpg
-  location: New York, USA
-  relocation: true
-  company: Atomic Studio
-  for_hire: true
+  location: Jönköping, Sverige
+  relocation: false
+  company: XLENT
+  for_hire: false
   focus: Learning Gatsby
   focus_url: https://gatsbyjs.org
   about: |
