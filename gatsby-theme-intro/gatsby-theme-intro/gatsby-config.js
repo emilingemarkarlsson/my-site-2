@@ -1,7 +1,7 @@
 module.exports = ({
   basePath = "/",
   contentPath = "content/",
-  showThemeLogo = true,
+  showThemeLogo = false,
   theme = "classic",
 }) => {
   return {

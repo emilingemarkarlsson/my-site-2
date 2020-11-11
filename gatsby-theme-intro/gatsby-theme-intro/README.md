@@ -129,7 +129,7 @@ module.exports = {
       options: {
         basePath: "/",
         contentPath: "content/",
-        showThemeLogo: true,
+        showThemeLogo: false,
         theme: "classic",
       },
     },

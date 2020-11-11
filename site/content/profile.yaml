@@ -2,28 +2,32 @@
   initials: EK
   name: Emil Karlsson
   email: emilingemarkarlsson@gmail.com
-  profession: false
+  profession:  Management Consultant
   image: images/profile.jpg
   location: Jönköping, Sverige
   relocation: false
   company: XLENT
   for_hire: false
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Learning Scrapy
+  focus_url: https://scrapy.org/
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    I develop and transform businesses and concepts digitally. I like to help organizations in digital thinking and insights.
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Clients I have worked with the last couple of years: Husqvarna Group, Vätterhem, EVRY, Jönköping University, HV71 and more.
+
+    I co-founded the digital neighborhood watch startup Tuva. I was also the co-founder of the ticket startup Tickset.
+
+    Every now and then I also try out ideas, test, prototype and experiment. Below is some of them.
   skills:
-    - JavaScript
-    - HTML / CSS
-    - Ruby on Rails
+    - Love of learning
+    - Technical know-how
+    - Adaptability to different roles
   tools:
-    - React
-    - VSCode
-    - Gatsby
+    - Power BI
+    - Github
+    - Notion
   budget:
-    currency: $
+    currency: SEK
     min: 5
     max: 30
     default: 10

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
-    locale: "en",
-    title: "John Doe",
+    description: "Personal page of Emil Karlsson",
+    locale: "se",
+    title: "Emil Karlsson",
   },
   plugins: [
     {
@@ -10,7 +10,7 @@ module.exports = {
       options: {
         basePath: "/",
         contentPath: "content/",
-        showThemeLogo: true,
+        showThemeLogo: false,
         theme: "bright-green",
       },
     },
