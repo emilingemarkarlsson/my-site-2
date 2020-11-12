@@ -1,18 +1,26 @@
-- company: Atomic Studio
-  position: Senior Web Developer
-  period: January 2018 - present
-  url: https://atomic.studio
+- company: XLENT
+  position: Management Consultant & Partner
+  period: September 2019 - present
+  url: https://www.xlent.se
 
-- company: Atomic Studio
-  position: Web Developer
-  period: January 2014 - December 2017
-  url: https://atomic.studio
+- company: EVRY
+  position:
+  period: March 2017 - September 2019
+  url: false
 
-- company: WebConnect Agency
-  position: Junior Web Developer
-  period: November 2010 - December 2013
+- company: Jönköping University
+  position: Innovation Advisor
+  period: September 2015 - March 2017
   url:
 
-- company: Freelance
-  position: Web Developer
-  period: April 2008 - October 2010
+- company: Tuva Sweden AB
+  position: Founder
+  period: September 2014 - December 2016
+
+- company: EVRY
+  position: Customer Service
+  period: September 2013 - September 2014
+
+- company: HV71
+  position: Coach
+  period: August 2010 - September 2013
