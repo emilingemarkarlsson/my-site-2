@@ -11,5 +11,8 @@
   "workspaces": [
     "gatsby-theme-intro",
     "site"
-  ]
+  ],
+  "name": "my-site",
+  "repository": "https://github.com/emilingemarkarlsson/my-site-2.git",
+  "author": "Emil I. Karlsson <emilingemarkarlsson@gmail.com>"
 }

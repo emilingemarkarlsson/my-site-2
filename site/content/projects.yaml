@@ -1,12 +1,49 @@
+- name: Requirements Analysis Visualization
+  url: https://github.com/emilingemarkarlsson/Requirements-Analysis-Visualization
+  description: Solution to the problem that it is difficult to get an overview of the connection between, goals, and requirements in a requirements analysis.
+  status:
+  tags:
+    - Sketch
+  icon: github
+
+- name: Multiple 0365 Planner overview in Power BI
+  url: https://github.com/emilingemarkarlsson/Multiple-0365-Planner-overview-in-Power-BI
+  description: Solution to the problem that it is difficult to get an overview of status and responsibilities when working in a number of different planners.
+  status:
+  tags:
+    - MS365
+    - Planner
+    - Power BI
+  icon: github
+
+- name: Bubble New Ventures
+  url: https://upbeat-almeida-a4cc5d.netlify.app/
+  description: Projects in the start-up phase with the goal of working more actively to create completely new solutions that can help many people.
+  status:
+  tags:
+    - gatsbyjs
+    - netlify
+  icon: github
+
+- name: Förväntad livslängd
+  url: http://gusty-railway.surge.sh
+  description: Simple application to calculate your life expectancy.
+  status:
+  tags:
+    - gatsbyjs
+    - surge.sh
+  icon: github
+
+
 - name: TUVA
-  url:
+  url: https://github.com/emilingemarkarlsson/tuvapp-connect
   description: An app and concept for digital neighborhood watch built with Swift for iOS and Java for Android. Backend was built upon Parse. Mockups built with Sketch. The app was used by total 10 028 users.
   status:
   tags:
     - Swift
-    - Java
+    - iOS
     - Sketch
-  icon:
+  icon: github
 
 #- name: TUVA Connect
 #  url: https://github.com

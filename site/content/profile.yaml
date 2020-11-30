@@ -8,20 +8,19 @@
   relocation: false
   company: XLENT
   for_hire: false
-  focus: Learning Scrapy
-  focus_url: https://scrapy.org/
+  focus: Data-driven decisions
+  focus_url: false
   about: |
     I develop and transform businesses and concepts digitally. I like to help organizations in digital thinking and insights.
 
     Clients I have worked with the last couple of years: Husqvarna Group, Vätterhem, EVRY, Jönköping University, HV71 and more.
 
-    I founded the digital neighborhood watch startup Tuva. I was also the co-founder of the ticket startup Tickset.
+    I founded the Digital Neighborhood Watch Community startup Tuva.
 
-    Every now and then I also try out ideas, test, prototype and experiment. Below is some of them.
   skills:
-    - Love of learning
-    - Technical know-how
-    - Adaptability to different roles
+    - Business
+    - Tech
+    - Ledership
   tools:
     - Power BI
     - Github
